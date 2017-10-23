@@ -1,0 +1,44 @@
+/Users/Mendes/Projects/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/Mendes/Projects/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.deps.json
+/Users/Mendes/Projects/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.runtimeconfig.json
+/Users/Mendes/Projects/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.runtimeconfig.dev.json
+/Users/Mendes/Projects/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.dll
+/Users/Mendes/Projects/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.pdb
+/Users/Mendes/Projects/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.csproj.CoreCompileInputs.cache
+/Users/Mendes/Projects/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.AssemblyInfoInputs.cache
+/Users/Mendes/Projects/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.AssemblyInfo.cs
+/Users/Mendes/Projects/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.dll
+/Users/Mendes/Projects/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.pdb
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.deps.json
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.runtimeconfig.json
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.runtimeconfig.dev.json
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.dll
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.pdb
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.csprojResolveAssemblyReference.cache
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.csproj.CoreCompileInputs.cache
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.AssemblyInfoInputs.cache
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.AssemblyInfo.cs
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.dll
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.pdb
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.deps.json
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.runtimeconfig.json
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.runtimeconfig.dev.json
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.dll
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.pdb
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.csprojResolveAssemblyReference.cache
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.csproj.CoreCompileInputs.cache
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.AssemblyInfoInputs.cache
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.AssemblyInfo.cs
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.dll
+/Users/Mendes/Desktop/learnC#/DesafioCappta copy/SondaProject/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.pdb
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.deps.json
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.runtimeconfig.json
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.runtimeconfig.dev.json
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.dll
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/bin/Debug/netcoreapp2.0/SondaProject.pdb
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.csprojResolveAssemblyReference.cache
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.csproj.CoreCompileInputs.cache
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.AssemblyInfoInputs.cache
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.AssemblyInfo.cs
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.dll
+/Users/Mendes/Desktop/learnC#/DesafioCappta/SondaProject/obj/Debug/netcoreapp2.0/SondaProject.pdb
